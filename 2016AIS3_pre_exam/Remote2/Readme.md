@@ -8,11 +8,11 @@ Give you a url and a file, please find the flag.
 - scanf
 
 ## Write-up
-«İ¸É  
+å¾…è£œ  
 
 ## Keypoint
-- °f¦V¤uµ{
-- C»y¨¥ªºscanf
+- é€†å‘å·¥ç¨‹
+- Cèªè¨€çš„scanf
 
 ## Reference
-«İ¸É  
+å¾…è£œ  

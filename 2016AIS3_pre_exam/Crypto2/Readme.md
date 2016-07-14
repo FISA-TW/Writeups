@@ -5,8 +5,8 @@ Category: Crypto, Points: 2
 Give you a url, please find the code.
 
 ## Write-up
-¯u¡CWeb4¡AÃhºÃÃD¥Ø¦³º|¬}...(ry  
-¶i¨ìºô¯¸¡A·|µo²{ºô§}¦h¤Fexpire¸òauth¡A«eªÌ¬O®Ú¾Ú²{¦bªºunix timestamp¥Í¦¨¡A«á­±«h¬O¥Îflag+expire=`$expire`¥h°µsha1 hash¥Í¦¨ªº¡Aºô­¶¤W·|Åã¥Ü³o¤@­¶­ì©l½X¡]³¡¤À¡^¡A¥J²Ó¬Ý·|µo²{²Ä¤@­Óif¤¤¶¡ªº§PÂ_¦¡``if(sha1($secret . "$qstr") === $auth)``©M³Ì¤U­±ªºelse¥Í¦¨ªºexpire¤Îauth¬O¤@¼Ëªº¡A¦]¦¹¡A±ø¥ó¦¡¬O¦¨¥ßªº¡C°ß¤@¨S¦³¦¨¥ßªº¬O³Ì¸Ì­±ªº``if($expire < time(0))``¡A¦¹®É·|µo²{$expire©M$qstrÁöµM³£¬O¨úexpire=xxx¡A¦ý¬O¨úªº¤èªk¤£¤@¼Ë¡A$expire¬O³z¹L$_GET¨Ó¥h§ì¨úºô§}¤¤³Ì«á¤@­ÓexpireÅÜ¼Æ¡A¦Ó$qstr«h¬O§ì¨ú"?"«á­±²Ä¤@­Óexpire=xxx¡A¦]¦¹¦bºô§}³Ì«á­±¥[¤W``&expire=9999999999999999``´N¥i¥H¶¶§Q¸Ñ¶}®³¨ìflag¡I  
+çœŸã€‚Web4ï¼Œæ‡·ç–‘é¡Œç›®æœ‰æ¼æ´ž...(ry  
+é€²åˆ°ç¶²ç«™ï¼Œæœƒç™¼ç¾ç¶²å€å¤šäº†expireè·Ÿauthï¼Œå‰è€…æ˜¯æ ¹æ“šç¾åœ¨çš„unix timestampç”Ÿæˆï¼Œå¾Œé¢å‰‡æ˜¯ç”¨flag+expire=`$expire`åŽ»åšsha1 hashç”Ÿæˆçš„ï¼Œç¶²é ä¸Šæœƒé¡¯ç¤ºé€™ä¸€é åŽŸå§‹ç¢¼ï¼ˆéƒ¨åˆ†ï¼‰ï¼Œä»”ç´°çœ‹æœƒç™¼ç¾ç¬¬ä¸€å€‹ifä¸­é–“çš„åˆ¤æ–·å¼``if(sha1($secret . "$qstr") === $auth)``å’Œæœ€ä¸‹é¢çš„elseç”Ÿæˆçš„expireåŠauthæ˜¯ä¸€æ¨£çš„ï¼Œå› æ­¤ï¼Œæ¢ä»¶å¼æ˜¯æˆç«‹çš„ã€‚å”¯ä¸€æ²’æœ‰æˆç«‹çš„æ˜¯æœ€è£¡é¢çš„``if($expire < time(0))``ï¼Œæ­¤æ™‚æœƒç™¼ç¾$expireå’Œ$qstré›–ç„¶éƒ½æ˜¯å–expire=xxxï¼Œä½†æ˜¯å–çš„æ–¹æ³•ä¸ä¸€æ¨£ï¼Œ$expireæ˜¯é€éŽ$_GETä¾†åŽ»æŠ“å–ç¶²å€ä¸­æœ€å¾Œä¸€å€‹expireè®Šæ•¸ï¼Œè€Œ$qstrå‰‡æ˜¯æŠ“å–"?"å¾Œé¢ç¬¬ä¸€å€‹expire=xxxï¼Œå› æ­¤åœ¨ç¶²å€æœ€å¾Œé¢åŠ ä¸Š``&expire=9999999999999999``å°±å¯ä»¥é †åˆ©è§£é–‹æ‹¿åˆ°flagï¼  
 
 ## Keypoint
-- ¤F¸ÑPHP­ì²z
+- äº†è§£PHPåŽŸç†

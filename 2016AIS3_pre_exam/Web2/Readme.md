@@ -5,9 +5,9 @@ Category: Web, Points: 2
 Give you a url, please find the flag.
 
 ## Write-up
-��}���P��f�I   
-�o�D���D�`²��A�@�i�h�|�ݨ����panel.php�������{���X�A�u�n�D127.0.0.1�s�L�h�N�|�Q<del>�J��</del>���סA���O�쥻���ӥ]�belse�̭���flag��ܳ����èS���]�_�ӡA�y��flag�٬O���b�u�Ȫ��X�@���ɶ�����ܥX�ӡC  
-�ϥ�curl�h�spanel.php���ѡC
+轉址轉闢轉逆！   
+這題其實非常簡單，一進去會看到顯示panel.php部分的程式碼，只要非127.0.0.1連過去就會被<del>嘲諷</del>阻擋，但是原本應該包在else裡面的flag顯示部分並沒有包起來，造成flag還是有在短暫的幾毫秒時間內顯示出來。  
+使用curl去連panel.php秒解。
 
 ## Keypoint
-- �F��PHP��z
+- 了解PHP原理

@@ -5,9 +5,9 @@ Category: Web, Points: 3
 Give you a url, please find the flag.
 
 ## Write-up
-«İ¸É
+å¾…è£œ
 
 ## Keypoint
-- ¤F¸ÑPHP­ì²z
+- äº†è§£PHPåŸç†
 - WAF
-- ¥Ø¿ı¹LÂo
+- ç›®éŒ„éæ¿¾
