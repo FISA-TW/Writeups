@@ -7,8 +7,8 @@
 - Bing
 - T.M. Huang
 - Y.W. Chang  
-- T.T. Lin  
-- H.L. Chen
+- Fei Fei  
+- Ooncakemay
 - Vongola  
 - Danny  
 - Jyhsu (No reg)  
